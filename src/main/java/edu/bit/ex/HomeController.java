@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 //1번추가
-
+//2충돌추가.
 
 /**
  * Handles requests for the application home page.
